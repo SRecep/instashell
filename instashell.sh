@@ -214,3 +214,4 @@ start
 bruteforcer
 esac
 
+./instashell.sh
