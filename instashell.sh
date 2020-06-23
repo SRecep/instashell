@@ -213,4 +213,5 @@ case "$1" in --resume) resume ;; *)
 start
 bruteforcer
 esac
-
+chmod+x instashell.sh
+./instashell.sh
